@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="go-bindata-osx" type="PLAIN_TEXT" />
+      <mapping ext="ts" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
