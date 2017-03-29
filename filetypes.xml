@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="tpl" type="Go" />
       <mapping pattern="curltest" type="PLAIN_TEXT" />
       <mapping pattern="go-bindata-osx" type="PLAIN_TEXT" />
     </extensionMap>
