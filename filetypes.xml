@@ -5,6 +5,7 @@
       <mapping pattern="curltest" type="PLAIN_TEXT" />
       <mapping pattern="alertrule" type="PLAIN_TEXT" />
       <mapping pattern="go-bindata-osx" type="PLAIN_TEXT" />
+      <mapping pattern="querystate" type="Thrift" />
     </extensionMap>
   </component>
 </application>
