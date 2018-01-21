@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="tpl" type="Go" />
       <mapping pattern="alertrule" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="curltest" type="PLAIN_TEXT" />
       <mapping pattern="go-bindata-osx" type="PLAIN_TEXT" />
       <mapping pattern="querystate" type="Thrift" />
