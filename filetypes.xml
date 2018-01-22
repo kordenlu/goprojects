@@ -6,6 +6,7 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="curltest" type="PLAIN_TEXT" />
       <mapping pattern="go-bindata-osx" type="PLAIN_TEXT" />
+      <mapping ext="jce" type="PLAIN_TEXT" />
       <mapping pattern="querystate" type="Thrift" />
       <mapping pattern="pluginudbproxy" type="Thrift" />
       <mapping pattern="group" type="XML" />
